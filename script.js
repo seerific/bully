@@ -19,7 +19,7 @@ const songs = [
   { title: "LAST BREATH (feat. Peso Pluma)", src: "music/LAST BREATH.wav" },
   { title: "THIS ONE HERE", src: "music/THIS ONE HERE.wav" },
   { title: "OK (feat. Don Toliver)", src: "music/OK.wav" },
-  { title: "MISSION CONTROL (feat. The WRLDFMS Tony Williams)", src: "music/MISSION CONTROL.mp3" }
+  { title: "MISSION CONTROL (feat. The WRLDFMS Tony Williams)", src: "music/MISSION CONTROL.wav" }
 ];
 
 let currentSong = 0;
